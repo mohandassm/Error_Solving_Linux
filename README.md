@@ -9,3 +9,4 @@ else
         exit 1
 fi
 exit 1'
+bye
